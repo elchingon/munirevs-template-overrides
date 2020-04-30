@@ -1,0 +1,5 @@
+#<IfModule mod_fcgid.c> 
+#FcgidIOTimeout 180
+#</IfModule>
+
+
